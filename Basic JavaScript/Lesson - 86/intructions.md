@@ -18,7 +18,7 @@ console.log(myBreed);
 
 The string `Doberman` would be displayed in the console.
 
-Note that we do *not* use quotes around the variable name when using it to access the property because we are using the *value* of the variable, not the *name*.
+Note that we do _not_ use quotes around the variable name when using it to access the property because we are using the _value_ of the variable, not the _name_.
 
 ---
 
